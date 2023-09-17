@@ -40,8 +40,8 @@ public class C01 {
 
         //Yasemin(41)
 
-
-
+        System.out.println("harikalar diyarına");
+        System.out.println("hoşgeldiniz");
 
 
 
