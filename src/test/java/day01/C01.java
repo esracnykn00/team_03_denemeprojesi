@@ -1,11 +1,24 @@
 package day01;
 
+import java.util.EmptyStackException;
+
 public class C01 {
     public static void main(String[] args) {
+
+
+
+        //Esra
         System.out.println("deneme");
         System.out.println("deneme");
         System.out.println("deneme");
         System.out.println("deneme");
+        System.out.println("deneme");
+        System.out.println("deneme");
+        System.out.println("deneme");
+        System.out.println("deneme");
+        System.out.println("deneme");
+
+        //Nuray(21)
 
 
 
@@ -15,6 +28,7 @@ public class C01 {
 
 
 
+    //Cihan(31)
 
 
 
@@ -24,6 +38,7 @@ public class C01 {
 
 
 
+        //Yasemin(41)
 
 
 
@@ -33,6 +48,8 @@ public class C01 {
 
 
 
+      //Lale(51)
+System.out.println("Github");
 
 
 
@@ -41,6 +58,7 @@ public class C01 {
 
 
 
+        //Merve(61)
 
 
 
@@ -49,12 +67,17 @@ public class C01 {
 
 
 
-        System.out.println("Github");
+        
+
+
+
 
 
 
 
     }
+
+
 
 
 
