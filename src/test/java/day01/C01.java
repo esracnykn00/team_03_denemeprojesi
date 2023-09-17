@@ -8,15 +8,15 @@ public class C01 {
 
 
         //Esra
-
-
-
         System.out.println("deneme");
         System.out.println("deneme");
         System.out.println("deneme");
         System.out.println("deneme");
-
-
+        System.out.println("deneme");
+        System.out.println("deneme");
+        System.out.println("deneme");
+        System.out.println("deneme");
+        System.out.println("deneme");
 
         //Nuray(21)
 
