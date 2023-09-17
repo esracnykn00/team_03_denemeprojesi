@@ -28,7 +28,7 @@ public class C01 {
 
 
 
-        //Cihan(31)
+    //Cihan(31)
 
 
 
@@ -48,8 +48,8 @@ public class C01 {
 
 
 
-        //Lale(51)
-
+      //Lale(51)
+System.out.println("Github");
 
 
 
@@ -67,8 +67,18 @@ public class C01 {
 
 
 
+        
+
+
+
+
 
 
 
     }
-}
+
+
+
+
+
+    }
