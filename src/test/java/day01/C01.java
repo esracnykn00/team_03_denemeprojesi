@@ -17,9 +17,8 @@ public class C01 {
         System.out.println("deneme");
         System.out.println("deneme");
         System.out.println("deneme");
-
+        System.out.println("deneme20");
         //Nuray(21)
-
 
 
 
