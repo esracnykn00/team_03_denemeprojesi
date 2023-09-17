@@ -29,8 +29,8 @@ public class C01 {
 
 
         //Cihan(31)
-
-
+        System.out.println("cihan");
+        System.out.println("karanfil");
 
 
 
