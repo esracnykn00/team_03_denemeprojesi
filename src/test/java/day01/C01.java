@@ -19,19 +19,19 @@ public class C01 {
         System.out.println("deneme");
         System.out.println("deneme20");
         //Nuray(21)
-
-
-
+        System.out.println("hello all");
+        System.out.println("to be or not to be");
+        System.out.println("team03");
 
 
 
 
 
         //Cihan(31)
+        System.out.println("cihan");
+        System.out.println("karanfil");
 
-
-
-
+   
 
 
 
@@ -39,16 +39,16 @@ public class C01 {
 
         //Yasemin(41)
 
+        System.out.println("harikalar diyarına");
+        System.out.println("hoşgeldiniz");
 
 
 
 
 
 
-
-
-        //Lale(51)
-
+      //Lale(51)
+System.out.println("Github");
 
 
 
@@ -58,10 +58,15 @@ public class C01 {
 
 
         //Merve(61)
+        System.out.println("Deneme 1 Merve");
+        System.out.println("Deneme 1 Merve");
+        System.out.println("Deneme 1 Merve");
 
 
 
 
+
+        
 
 
 
@@ -70,4 +75,9 @@ public class C01 {
 
 
     }
-}
+
+
+
+
+
+    }
