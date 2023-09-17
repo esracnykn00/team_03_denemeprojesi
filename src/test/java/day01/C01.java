@@ -42,7 +42,7 @@ public class C01 {
 
         System.out.println("harikalar diyarına");
         System.out.println("hoşgeldiniz");
-
+        System.out.println("gitimde problem var");
 
 
 
