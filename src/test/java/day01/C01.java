@@ -15,14 +15,13 @@ public class C01 {
         System.out.println("deneme");
         System.out.println("deneme");
         System.out.println("deneme");
-        System.out.println("deneme");
-        System.out.println("deneme");
-
+        System.out.println("deneme40");
+        System.out.println("deneme30");
+        System.out.println("deneme20");
         //Nuray(21)
         System.out.println("hello all");
         System.out.println("to be or not to be");
         System.out.println("team03");
-
 
 
 
