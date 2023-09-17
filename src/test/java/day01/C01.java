@@ -50,7 +50,7 @@ public class C01 {
 
       //Lale(51)
 System.out.println("Github");
-
+        System.out.println("Bu Proje Çok Kolay Olacak:)");
 
 
 
