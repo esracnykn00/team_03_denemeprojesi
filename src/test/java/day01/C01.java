@@ -19,9 +19,9 @@ public class C01 {
         System.out.println("deneme");
 
         //Nuray(21)
-
-
-
+        System.out.println("hello all");
+        System.out.println("to be or not to be");
+        System.out.println("team03");
 
 
 
