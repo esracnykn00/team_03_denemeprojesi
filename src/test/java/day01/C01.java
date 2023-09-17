@@ -59,9 +59,9 @@ public class C01 {
 
 
         //Merve(61)
-
-
-
+        System.out.println("Deneme 1 Merve");
+        System.out.println("Deneme 1 Merve");
+        System.out.println("Deneme 1 Merve");
 
 
 
